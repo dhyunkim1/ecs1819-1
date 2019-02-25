@@ -1,0 +1,32 @@
+body {
+    background-color:lightgreen;
+    color:purple;
+    font-family: cursive;
+}
+img {
+  padding:25px; margin:70px;
+}
+img {
+    border-style: solid; border-color: #91274F
+}
+h3 {
+    font-family: Arial;
+}
+
+h2 {font-family: Arial;}
+ol {font-family: monospace}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  height: 50px;
+  border: 10px solid #ff0352;
+  padding: 1px
+}
+
+tr:nth-child(even) {
+    Background-color: #ff0;
+}
